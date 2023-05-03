@@ -1,0 +1,32 @@
+body {
+	font-family: Tahoma;
+}
+
+table{
+    border: 1px solid #ededed;
+    width: 80vh;
+    height: 70vh;      
+}
+
+td{
+    border: 1px solid #ededed;
+    padding: 10px;
+    background-color: #ededed;
+    text-align: center;
+}
+
+th{
+    font-size: 13px;
+}
+
+.table{
+    display: flex;
+    justify-content: center;    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 0;
+}
